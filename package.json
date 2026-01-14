@@ -1,0 +1,30 @@
+{
+  "name": "algo-trader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "ts-node src/index.ts",
+    "dev": "node --loader ts-node/esm src/index.ts",
+    "dashboard": "node dist/dashboard/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.0.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "ccxt": "^4.5.32",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "technicalindicators": "^3.1.0"
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"fees.js","sourceRoot":"","sources":["../../src/backtest/fees.ts"],"names":[],"mappings":"AAAA,MAAM,UAAU,IAAI,CAAC,MAAuB,EAAE,QAAgB;IAC1D,OAAO,MAAM,KAAK,QAAQ,CAAC,CAAC,CAAC,QAAQ,GAAG,MAAM,CAAC,CAAC,CAAC,QAAQ,GAAG,OAAO,CAAC;AACtE,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"oanda.d.ts","sourceRoot":"","sources":["../../../src/markets/fx/oanda.ts"],"names":[],"mappings":"AAEA,qBAAa,KAAK;IAId,OAAO,CAAC,KAAK;IACb,OAAO,CAAC,OAAO;IAJjB,OAAO,CAAC,IAAI,CAAyC;gBAG3C,KAAK,SAA6B,EAClC,OAAO,SAAgC;IAG3C,OAAO,CAAC,IAAI,EAAE,MAAM;IAmBpB,KAAK,CAAC,IAAI,EAAE,MAAM,EAAE,KAAK,EAAE,MAAM;CAcxC"}
